@@ -11,7 +11,7 @@ Nous voulons permettre à l'utilisateur de trouver le trajet le plus optimal pou
 
 ## Prérequis
 - Python 3.7+
-- Les packages suivants : **flask**, **numpy**, **networkx**
+- Les packages suivants : **flask**, **numpy**, **networkx**, **requests**
 - Une connexion internet
 
 ## Utilisation
